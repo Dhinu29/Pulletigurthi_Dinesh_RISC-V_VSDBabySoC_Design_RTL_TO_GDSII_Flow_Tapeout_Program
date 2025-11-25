@@ -17,8 +17,8 @@ All work was done using open-source tools — Icarus Verilog, GTKWave, Ngspice, 
 | **Week 3** | Static Timing Analysis (STA) Fundamentals | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_3_RISC_V_SoC_Tapeout_Program_VSD) | Performed Static Timing Analysis using OpenSTA to check timing of the synthesized VSDBabySoC netlist and ensured design meets constraints. | ✅ Completed |
 | **Week 4** | Ngspice Analog Simulation | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_4_RISC_V_SoC_Tapeout_Program_VSD) | Simulated analog/mixed-signal circuits (inverter, op-amp) using **Ngspice** with Sky130 device models. | ✅ Completed |
 | **Week 5** |OpenROAD Installation|   [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_5_RISC_V_SoC_Tapeout_Program_VSD)  | OpenROAD (Open Routing, Optimization, and Analysis for Designs) is an open-source physical design toolchain that automates the digital ASIC design flow. ||  ✅ Completed |
-| **Week 6** | physical design | — | _Pending Update_ | ⏳ Pending |
-| **Week 7** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
+| **Week 6** | physical design | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_6_RISC_V_SoC_Tapeout_Program_VSD) | Implemented picorv32a through the stages of Synthesis, Floorplanning, Placement, STA, and CTS.|  ✅ Completed  |
+| **Week 7** | OpenROAD Flow from RTL to GDSII | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_7_RISC_V_SoC_Tapeout_Program_VSD)|Implemented the complete physical design flow (RTL-to-GDSII) for VSDBabySoC using OpenROAD. | ✅ Completed  |
 | **Week 8** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
 | **Week 9** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
 | **Week 10** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
