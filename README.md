@@ -19,7 +19,7 @@ All work was done using open-source tools — Icarus Verilog, GTKWave, Ngspice, 
 | **Week 5** |OpenROAD Installation|   [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_5_RISC_V_SoC_Tapeout_Program_VSD)  | OpenROAD (Open Routing, Optimization, and Analysis for Designs) is an open-source physical design toolchain that automates the digital ASIC design flow. ||  ✅ Completed |
 | **Week 6** | physical design | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_6_RISC_V_SoC_Tapeout_Program_VSD) | Implemented picorv32a through the stages of Synthesis, Floorplanning, Placement, STA, and CTS.|  ✅ Completed  |
 | **Week 7** | OpenROAD Flow from RTL to GDSII | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_7_RISC_V_SoC_Tapeout_Program_VSD)|Implemented the complete physical design flow (RTL-to-GDSII) for VSDBabySoC using OpenROAD. | ✅ Completed  |
-| **Week 8** | Multi-Stage Static Timing Analysis | [GitHub](https://github.com/Dhinu29/P_DINESH_WEEK_8_RISC_V_SoC_Tapeout_Program_VSD) |As part of the RTL-to-GDSII flow, I performed Static Timing Analysis (STA) at the post-synthesis and post-CTS stages.| ✅ Completed |
+| **Week 8** | Multi-Stage Static Timing Analysis | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_8_RISC_V_SoC_Tapeout_Program_VSD) |As part of the RTL-to-GDSII flow, I performed Static Timing Analysis (STA) at the post-synthesis and post-CTS stages.| ✅ Completed |
 | **Week 9** | 🔜Coming soon | — | _Pending Update_ | ✅ Completed |
 | **Week 10** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
 ---
@@ -29,7 +29,7 @@ All work was done using open-source tools — Icarus Verilog, GTKWave, Ngspice, 
 - Ngspice  
 - Yosys  
 - OpenSTA  
-- OpenLane, Magic, KLayout, Netgen  
+- OpenLane, Magic, KLayout 
 - SkyWater SKY130 PDK  
 
 ---
