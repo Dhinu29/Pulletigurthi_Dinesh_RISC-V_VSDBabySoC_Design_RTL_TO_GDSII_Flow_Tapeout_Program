@@ -1,4 +1,4 @@
-📘 Final Project Documentation
+# 📘 Final Project Documentation
 
 This section contains the complete flow execution results, images, logs, timing reports, floorplan evolution, GDSII layout, and analysis performed across 10 weeks.
 
