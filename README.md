@@ -58,3 +58,6 @@ Generated a **tapeout-ready RISC-V SoC layout (GDSII)** using open-source tools.
 **Author:** Pulletigurthi Dinesh  
 **Program:** RISC-V Reference SoC Tapeout (10 Weeks)  
 **Year:** 2025
+
+
+## Final Documentation & Project Completion
