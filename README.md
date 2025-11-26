@@ -725,7 +725,7 @@ The following table summarizes the timing analysis across different Process, Vol
 | **ss_n40C_1v44** | -17.61 | -4419.96 | -17.61 | 1.03 | **FAIL** |
 | **ss_n40C_1v60** | -6.96 | -1195.05 | -6.96 | 0.68 | **FAIL** |
 | **ss_n40C_1v76** | -1.92 | -109.97 | -1.92 | 0.51 | **FAIL** |
-
+ 
 **Legend:**
 * **WNS (Max):** Worst Negative Slack (Setup Time)
 * **TNS (Max):** Total Negative Slack
