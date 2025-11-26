@@ -780,6 +780,7 @@ The following table summarizes the timing analysis after Clock Tree Synthesis (C
 
 ## 🏁 Final Output
 Generated a **tapeout-ready RISC-V SoC layout (GDSII)** using open-source tools.
+<img width="1855" height="886" alt="VSDBABYSOC_GDSII" src="https://github.com/user-attachments/assets/fc00f063-1538-4883-8b4f-3f51f925f909" />
 
 ---
 
